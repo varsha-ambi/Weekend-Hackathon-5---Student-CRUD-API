@@ -1,44 +1,46 @@
-var studentArray = [{
+var studentArray = [
+  {
     id: 1,
-    name: 'Jayesh',
+    name: "Jayesh",
     currentClass: 5,
-    division: 'A'
-},
-{
+    division: "A"
+  },
+  {
     id: 2,
-    name: 'Minakshi',
+    name: "Minakshi",
     currentClass: 12,
-    division: 'C'
-},
-{
+    division: "C"
+  },
+  {
     id: 3,
-    name: 'Drisham',
+    name: "Drisham",
     currentClass: 7,
-    division: 'C'
-},
-{
+    division: "C"
+  },
+  {
     id: 4,
-    name: 'Kamlesh',
+    name: "Kamlesh",
     currentClass: 7,
-    division: 'A'
-},
-{
+    division: "A"
+  },
+  {
     id: 5,
-    name: 'Dhoni',
+    name: "Dhoni",
     currentClass: 10,
-    division: 'D'
-},
-{
+    division: "D"
+  },
+  {
     id: 6,
-    name: 'Piyush',
+    name: "Piyush",
     currentClass: 10,
-    division: 'A'
-},
-{
+    division: "A"
+  },
+  {
     id: 7,
-    name: 'Aansh',
+    name: "Aansh",
     currentClass: 8,
-    division: 'A'
-}]
+    division: "A"
+  }
+];
 
 module.exports = studentArray;
